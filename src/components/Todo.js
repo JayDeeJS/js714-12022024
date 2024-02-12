@@ -1,6 +1,6 @@
 const Todo = () => {
     return (
-        <div>todo</div>
+        <div>all good</div>
     )
 };
 
